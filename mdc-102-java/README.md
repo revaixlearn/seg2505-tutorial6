@@ -1,3 +1,3 @@
-# MDC-102 for Material Components for Android (Java)
+# MDC-102 Android: Material Structure and Layout (Java)
 
-Contains starter code structure for the MDC-102 Java codelab.
+Application Shrine du codelab MDC-102, réalisée à partir du code de départ `102-starter`. Voir le [README principal](../README.md) pour les détails.
